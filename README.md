@@ -9,7 +9,7 @@ Download all the files, and running RT-WFP.ipynb in an IDE that supports running
 
 # Sample data description
 All data were exported after processing by Arcmap 10.6.
-## 300mcenterpoint.csv--Sampel points data
+## 300mcenterpoint.csv--Sample points data
 p.xy is the xy coordinate of the sample point; Tri_index is the index of the triangular surface on which the sampling point is located; Slope_Pct and Aspect are the slope(percentage) and slope aspect of the triangular surface, respectively.
 ## 300mspacejoin.csv--Triangular surfaces data
 Tri_index is the index of the triangular surface on which the sampling point is located; Slope_Pct and Aspect are the slope(percentage) and slope aspect of the triangular surface, respectively; Node_Index is the number of the triangular surface node; TinNod.xyz is the xyz coordinate of the triangular surface node.
